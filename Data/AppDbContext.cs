@@ -9,6 +9,7 @@ namespace MyApi.Data
         {
         }
 
-        public DbSet<TodoItem> TodoItems { get; set; } = null!;
+        public DbSet<Message> Messages { get; set; } = null!;
+        public DbSet<User> Users {get; set;} = null!;
     }
 }
