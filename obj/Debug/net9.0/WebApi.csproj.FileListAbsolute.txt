@@ -273,3 +273,4 @@ C:\Users\ADMIN\Downloads\csharp\Simple-Csharp\WebApi\bin\Debug\net9.0\Microsoft.
 C:\Users\ADMIN\Downloads\csharp\Simple-Csharp\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\ADMIN\Downloads\csharp\Simple-Csharp\WebApi\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\ADMIN\Downloads\csharp\Simple-Csharp\WebApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\Downloads\csharp\Simple-Csharp\WebApi\bin\Debug\net9.0\BCrypt.Net-Next.dll
