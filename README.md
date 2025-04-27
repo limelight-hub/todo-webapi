@@ -38,7 +38,7 @@ CSharp-Backend is a project showcasing the development of a backend application 
 
 Before you begin, ensure you have the following installed:
 
-- .NET SDK 8.0
+- .NET SDK 9.0
 - PostgreSQL
 - Visual Studio Code (or any other code editor)
 
@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed:
    cd CSharp-Backend
    ```
 
-2. **Install .NET SDK 8.0:**
+2. **Install .NET SDK 9.0:**
    Follow the instructions from the [official .NET download page for debian](https://learn.microsoft.com/en-gb/dotnet/core/install/linux-debian).
 
    For Linux:
@@ -60,10 +60,10 @@ Before you begin, ensure you have the following installed:
    rm packages-microsoft-prod.deb
 
    sudo apt-get update && \
-   sudo apt-get install -y dotnet-sdk-8.0
+   sudo apt-get install -y dotnet-sdk-9.0
 
    sudo apt-get update && \
-   sudo apt-get install -y aspnetcore-runtime-8.0
+   sudo apt-get install -y aspnetcore-runtime-9.0
 
    dotnet --version
    ```
